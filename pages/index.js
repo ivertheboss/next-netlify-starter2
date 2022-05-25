@@ -11,7 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title=" +--^----------,--------,-----,--------^-,                            o
+        <Header title="" />
+        <p className=" +--^----------,--------,-----,--------^-,                            o
  | |||||||||   `--------'     |          O                            o
  `+---------------------------^----------|                            o
    `\_,---------,---------,--------------'                            o
@@ -21,8 +22,7 @@ export default function Home() {
   / XXXXXX /                                                          o
  / XXXXXX /                                                           o
 (________(                                                            o
- `------'                                                             o" />
-        <p className="description">
+ `------'                                                             o">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
