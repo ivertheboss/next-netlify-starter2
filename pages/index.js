@@ -11,10 +11,14 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="      __,_____         owo
-     / __.==--"
-    /#(-'
-    `-'" />
+        <Header title="          ________  
+      (( /========\
+      __/__________\____________n_                  owo
+  (( /              \_____________]
+    /  =(*)=          \
+    |_._._._._._._._._.|         !
+(( / __________________ \       =o
+  | OOOOOOOOOOOOOOOOOOO0 |   = " />
         <p className="">
           Get started by editing <code>pages/index.js</code>
         </p>
