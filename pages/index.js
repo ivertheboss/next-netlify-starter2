@@ -11,14 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="          ________  
-      (( /========\
-      __/__________\____________n_                  owo
-  (( /              \_____________]
-    /  =(*)=          \
-    |_._._._._._._._._.|         !
-(( / __________________ \       =o
-  | OOOOOOOOOOOOOOOOOOO0 |   = " />
+        <Header title="penis lol" />
         <p className="">
           Get started by editing <code>pages/index.js</code>
         </p>
