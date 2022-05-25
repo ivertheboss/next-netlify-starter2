@@ -11,18 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="" />
-        <p className=" +--^----------,--------,-----,--------^-,                            o
- | |||||||||   `--------'     |          O                            o
- `+---------------------------^----------|                            o
-   `\_,---------,---------,--------------'                            o
-     / XXXXXX /'|       /'                                            o
-    / XXXXXX /  `\    /'                                              o
-   / XXXXXX /`-------'                                                o
-  / XXXXXX /                                                          o
- / XXXXXX /                                                           o
-(________(                                                            o
- `------'                                                             o">
+        <Header title="      __,_____         owo
+     / __.==--"
+    /#(-'
+    `-'" />
+        <p className="">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
