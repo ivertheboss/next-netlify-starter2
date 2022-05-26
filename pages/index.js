@@ -1,18 +1,12 @@
-    <!Doctype Html>  
-    <Html>     
-    <Head>      
-    <Title>     
-    Create the Text Box  
-    </Title>  
-    </Head>  
-    <Body>   
-    Hello User! <br>   
-    <form>  
-    Student Name:  
-    <input type="text" name="Name" size="20">  
-    <br> <br>  
-    Course:  
-    <input type="text" name="Course" size="15">  
-    </form>  
-    </Body>   
-    </Html>  
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html> 
