@@ -1,3 +1,8 @@
+<!DOCTYPE html>
 <html>
-    <b>penis<b> 
-<html>
+<body>
+
+<h1>TheColdLemonade's website</h1>
+
+</body>
+</html>
