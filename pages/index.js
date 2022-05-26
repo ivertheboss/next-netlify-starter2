@@ -5,7 +5,7 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
-       <b>This text is bold</b> 
+       <b>This is a test.</b> 
     </div>
   )
 }
