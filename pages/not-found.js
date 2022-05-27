@@ -12,7 +12,9 @@ export default function Home() {
       <div className="container">
         <h1>After a long journey...</h1>
         <h2>We couldent find the page you needed!</h2>
-        <div class="tenor-gif-embed" data-postid="17022655" data-share-method="host" data-aspect-ratio="1.32231" data-width="100%"><a href="https://tenor.com/view/tgwtg-that-guy-with-the-glasses-doug-walker-point-computer-gif-17022655">Tgwtg That Guy With The Glasses GIF</a>from <a href="https://tenor.com/search/tgwtg-gifs">Tgwtg GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      </div>
+      <div>
+        <div class="tenor-gif-embed" data-postid="17022655" data-share-method="host" data-aspect-ratio="1.32231" data-width="40%"><a href="https://tenor.com/view/tgwtg-that-guy-with-the-glasses-doug-walker-point-computer-gif-17022655">Tgwtg That Guy With The Glasses GIF</a>from <a href="https://tenor.com/search/tgwtg-gifs">Tgwtg GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
       </div>
     </html>
   )
