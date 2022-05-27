@@ -1,8 +1,11 @@
-<!DOCTYPE html>
-<html>
-<body>
+import Head from 'next/head'
+import Header from '@components/Header'
+import Footer from '@components/Footer'
 
-<h1>TheColdLemonade's website</h1>
-
-</body>
-</html>
+export default function Home() {
+  return (
+    <div className="container">
+       <b>This is a test.</b> 
+    </div>
+  )
+}
