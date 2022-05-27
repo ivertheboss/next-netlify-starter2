@@ -12,6 +12,9 @@ export default function Home() {
       <div className="container">
         <h1>Game page!</h1>  
       </div>
+      <body>
+        <a target="_blank" href="https://www.y8.com/games/stick_slasher"><img alt="Stick Slasher" class="playable" src="https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/148410/small.gif" /><br />Stick Slasher<br />Play Now!</a>
+      </body>
     </html>
   )
 }
