@@ -13,7 +13,7 @@ export default function Home() {
         <h1>Game page!</h1>  
       </div>
       <body>
-        <a target="_blank" href="https://www.y8.com/games/stick_slasher"><img alt="Stick Slasher" class="playable" src="https://img-hws.y8.com/cloud/v2-y8-thumbs-small-thumbnails-001/148410/small.gif" /><br />Stick Slasher<br />Play Now!</a>
+        <iframe width="560" height="315" allow="fullscreen; autoplay; encrypted-media" src="https://games.construct.net/94/latest" frameborder="0" allowfullscreen="true" msallowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" allowpaymentrequest="false" referrerpolicy="unsafe-url" sandbox="allow-same-origin allow-forms allow-scripts allow-pointer-lock allow-orientation-lock allow-popups" scrolling="no"></iframe>  
       </body>
     </html>
   )
