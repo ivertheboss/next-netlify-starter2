@@ -13,6 +13,9 @@ export default function Home() {
         <h1>After a long journey...</h1>
         <h2>We couldent find the page you needed!</h2>
       </div>
+      <body>
+        <div class="tenor-gif-embed" data-postid="18834689" data-share-method="host" data-aspect-ratio="1.29032" data-width="100%"><a href="https://tenor.com/view/h-apple-apple-h-apple-gif-18834689">H Apple Apple H GIF</a>from <a href="https://tenor.com/search/h+apple-gifs">H Apple GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      </body>
     </html>
   )
 }
