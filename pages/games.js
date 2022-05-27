@@ -14,6 +14,7 @@ export default function Home() {
       </div>
       <body>
         <iframe width="560" height="315" allow="fullscreen; autoplay; encrypted-media" src="https://games.construct.net/94/latest" frameborder="0" allowfullscreen="true" msallowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" allowpaymentrequest="false" referrerpolicy="unsafe-url" sandbox="allow-same-origin allow-forms allow-scripts allow-pointer-lock allow-orientation-lock allow-popups" scrolling="no"></iframe>  
+        <iframe src="//www.gamezhero.com/get-game-code/ab38e9193c5e03752556a0a238ed5080" width="800px" height="600px" frameborder="0"></iframe>   
       </body>
     </html>
   )
