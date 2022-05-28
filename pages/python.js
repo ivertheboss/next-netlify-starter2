@@ -12,9 +12,7 @@ export default function Home() {
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text>🐍</svg>"></link>
       </head> 
       <div>
-        <h1>Downloads:</h1>  
-      </div>
-      <div>
+        <h1>Downloads</h1>  
         <a href="python icon.ico" download> BB.py
       </div>
     </html>
