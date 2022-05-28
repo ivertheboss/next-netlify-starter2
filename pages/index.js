@@ -13,7 +13,8 @@ export default function Home() {
         <h1>Welcome to TheColdLemonade's <u>wonderfull</u> website!</h1>  
       </div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
-        <p>This is the link the to python page. It contains most of my python projects. It my custom package downloaders. (only for windows x64) </p>
+        <p>This is the link the to python page. It contains most of my python projects. It my custom package downloaders. (only for windows x64)
+</p>
         <a href="http://www.thecoldlemonade.xyz/python/">
     <input type="button" value="Python page" />
     </a>  
