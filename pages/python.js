@@ -13,8 +13,8 @@ export default function Home() {
         <h1>Downloads:</h1>  
       </div>
       <body>
-        <input typr="button" value="Button Text" onClick="window.location.href="Bulletin Board.zip">
-          PP.py
+        <a href="Bulletin Board.zip" download>
+          BB.py
         </a>
       </body>
     </html>
