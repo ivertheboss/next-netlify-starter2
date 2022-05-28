@@ -8,8 +8,9 @@ export default function Home() {
 <head>
 <style>
 .dropdown {
-  position: static;
+  
   display: inline-block;
+  position: static;
 }
 
 .dropdown-content {
