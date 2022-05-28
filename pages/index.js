@@ -10,10 +10,11 @@ export default function Home() {
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👌</text></svg>"></link>
       </head> 
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '100vh'}}>
-    <div>
         <h1>Welcome to TheColdLemonade's <u>wonderfull</u> website!</h1>  
       </div>
-    <a href="http://www.thecoldlemonade.xyz/python/">
+      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '100vh'}}>
+        <p>This is the link the to python page. It contains most of my python projects. It also has the package downloaders.</p>
+        <a href="http://www.thecoldlemonade.xyz/python/">
     <input type="button" value="Python page" />
     </a>  
 </div>
