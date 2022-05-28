@@ -4,6 +4,8 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
+    <style>
+    </style>
     <html>
       <head>
         <title>Python files</title>
@@ -12,11 +14,9 @@ export default function Home() {
       <div className="container">
         <h1>Downloads:</h1>  
       </div>
-      <body>
-        <a href="Bulletin Board.zip" download>
-          BB.py
-        </a>
-      </body>
+      <duv>
+        <a href="Bulletin Board.zip" download> BB.py
+      </div>
     </html>
   )
 }
