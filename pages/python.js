@@ -9,7 +9,7 @@ export default function Home() {
         <title>Python files</title>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22>🐍<text y=%22.9em%22 font-size=%2290%22>🐍</text>🐍</svg>">🐍</link>
       </head> 
-      <div class="container" style="text-align: center;">
+      <div>
         <h1>Python Programs for windows</h1>
         <a href="BulletinBoard.zip" download> Bulletin Board program</a>
         <a href="tick-tack-toe" download> Tick-tack-toe</a>
