@@ -13,7 +13,7 @@ export default function Home() {
         <h1>Downloads:</h1>  
       </div>
       <body>
-        <a download href="Bulletin Board.zip">
+        <input typr="button" value="Button Text" onClick="window.location.href="Bulletin Board.zip">
           PP.py
         </a>
       </body>
