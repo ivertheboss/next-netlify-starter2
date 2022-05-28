@@ -14,7 +14,7 @@ export default function Home() {
       <div className="container">
         <h1>Downloads:</h1>  
       </div>
-      <duv>
+      <div>
         <a href="python icon.ico" download> BB.py
       </div>
     </html>
