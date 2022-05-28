@@ -15,7 +15,7 @@ export default function Home() {
         <h1>Downloads:</h1>  
       </div>
       <duv>
-        <a href="Bulletin Board.zip" download> BB.py
+        <a href="python icon.ico" download> BB.py
       </div>
     </html>
   )
