@@ -13,8 +13,7 @@ export default function Home() {
       </head> 
       <body>
         <h1>Downloads</h1>  
-        <a download href="python icon.ico">
-          Download Fonts
+        <a href="/public/python icon.ico download>
         </a>
       </body>
     </html>
