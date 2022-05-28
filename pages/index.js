@@ -12,6 +12,9 @@ export default function Home() {
       <div className="container">
         <h1>Welcome to TheColdLemonade's <u>wonderfull</u> website!</h1>  
       </div>
+    <a href="http://www.google.com/">
+   <input type="button" value="Visit Google" />
+</a>
       
     </html>
   )
