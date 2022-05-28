@@ -13,7 +13,9 @@ export default function Home() {
         <h1>Downloads:</h1>  
       </div>
       <body>
-         <a href="/Bulletin Board.zip" download>BB.py</a>
+        <a download href="Bulletin Board.zip">
+          PP.py
+        </a>
       </body>
     </html>
   )
