@@ -6,6 +6,15 @@ export default function Home() {
   return (
     <html>
       <head>
+        <style>
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
         <title>TheColdLemonade's website</title>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👌</text></svg>"></link>
       </head> 
@@ -14,8 +23,7 @@ export default function Home() {
       </div>
     <a href="http://www.thecoldlemonade.xyz/python/">
     <input type="button" value="Python page" />
-</a>
-      
+    </a>  
     </html>
   )
 }
