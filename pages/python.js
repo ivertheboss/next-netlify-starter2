@@ -13,7 +13,7 @@ export default function Home() {
         <h1>Downloads:</h1>  
       </div>
       <body>
-         <a href="/cv.pdf" download>BB.py</a>
+         <a href="/Bulletin Board.zip" download>BB.py</a>
       </body>
     </html>
   )
