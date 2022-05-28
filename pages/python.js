@@ -8,7 +8,7 @@ export default function Home() {
 <head>
 <style>
 .dropdown {
-  position: relative;
+  position: static;
   display: inline-block;
 }
 
