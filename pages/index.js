@@ -12,12 +12,7 @@ export default function Home() {
       <div className="container">
         <h1>Welcome to TheColdLemonade's <u>wonderfull</u> website!</h1>  
       </div>
-      <input type="submit" onClick="myFunction()"/> 
-      <script>
-       function myFunction() {
-         window.location.href="https://thecoldlemonade.xyz/python";  
-       }
-      </script>
+      
     </html>
   )
 }
