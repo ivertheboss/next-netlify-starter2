@@ -4,6 +4,26 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
+    <style>
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
     <html>
       <head>
         <title>Python files</title>
@@ -18,8 +38,13 @@ export default function Home() {
       </body>
       <div>
         <h1>Python game rescorces</h1>
-        <h2>These files are package installers</h2>
-        <h4>Most games require them</h4>
+        <div class="dropdown">
+          <span>More info</span>
+          <div class="dropdown-content">
+            <p>These files are package installers</p>
+            <p>Most games require them</p>
+          </div>
+        </div>
         <p>Pygame/ installer</p>
         <a href="tick-tack-toe" download> Download</a>
       </div>
