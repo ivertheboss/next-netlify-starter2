@@ -17,9 +17,9 @@ export default function Home() {
         <iframe width="1189" height="669" src="https://www.youtube.com/embed/fwJo7K-aYEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
 <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '80vh'}}>
-        <iframe width="945" height="709" src="https://www.youtube.com/embed/3YHM768tt0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </div>
+        <iframe width="1189" height="669" src="https://www.youtube.com/embed/3YHM768tt0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </div>
 <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '80vh'}}>
-        <iframe width="1280" height="720" src="https://www.youtube.com/embed/DdWC239Dbps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="1189" height="669" src="https://www.youtube.com/embed/DdWC239Dbps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
 <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '80vh'}}>
         <iframe width="1189" height="669" src="https://www.youtube.com/embed/xl7y2mMMLD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   </div>
