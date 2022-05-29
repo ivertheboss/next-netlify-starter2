@@ -21,7 +21,7 @@ export default function Home() {
     <p>Do you want your own page on my site? Go to the page and fill out the form.</p>
     <a href="http://www.thecoldlemonade.xyz/customPage/">
     <input type="button" value="Form page" />
-   
+    </a>
    </div>
   </html>
   )
