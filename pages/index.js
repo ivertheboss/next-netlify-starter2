@@ -20,9 +20,8 @@ export default function Home() {
     </a>  
    </div>
    <div style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
-    <p>Do you want your own page ohn my site? Fill out the form below.</p>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdccP9o97w_IMoefAAWZsCX-r9_saYZ_6ffI7xPiv6Ugl_1VQ/viewform?embedded=true" width="800" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-  </div>    
+    <p>Do you want your own page on my site? Go to the page and fill out the form.</p>
+   
   </html>
   )
 }
