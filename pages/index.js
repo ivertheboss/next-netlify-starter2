@@ -26,6 +26,17 @@ export default function Home() {
     <input type="button" value="Form page" />
     </a>
    </div>
+   <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '35vh', backgroundColor: "#0059ff", borderRadius: '15px'}}>
+        <h1>Welcome to TheColdLemonade's <u>wonderfull</u> custom pages!</h1>  
+      </div>
+      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '15vh'}}></div>
+<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh'}}>
+        <p>This is Grayson George's page. Description: "wassup guys quandill dingle here and I just ate ur mum." 
+</p>
+    <a href="http://www.thecoldlemonade.xyz/fartsickle/">
+    <input type="button" value="Page" />
+    </a>
+   </div>
   </html>
   )
 }
