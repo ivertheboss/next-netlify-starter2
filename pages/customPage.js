@@ -17,7 +17,7 @@ export default function Home() {
     <p>Back to home</p>
     <a href="http://www.thecoldlemonade.xyz/">
     <input type="button" value="Home" />
-   
+    </a>
    </div>
   </html>
   )
