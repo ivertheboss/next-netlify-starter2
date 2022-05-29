@@ -17,8 +17,10 @@ export default function Home() {
 </p>
     <a href="http://www.thecoldlemonade.xyz/python/">
     <input type="button" value="Python page" />
-    </a>  
-    <p>Do you want your own page on my site? Go to the page and fill out the form.</p>
+    </a>
+   </div>
+   <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '35vh', backgroundColor: "#0059ff", borderRadius: '15px'}}>
+      <p>Do you want your own page on my site? Go to the page and fill out the form.</p>
     <a href="http://www.thecoldlemonade.xyz/customPage/">
     <input type="button" value="Form page" />
     </a>
