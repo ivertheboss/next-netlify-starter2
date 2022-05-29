@@ -13,14 +13,14 @@ export default function Home() {
         <h1>Welcome to TheColdLemonade's <u>wonderfull</u> website!</h1>  
       </div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '15vh'}}></div>
-      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh'}}>
-        <p>This is the link the to python page. It contains most of my python projects. It my custom package downloaders. (only for windows x64)
+      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh', font-size:'300%'}}>
+        <p>This is the link the to python page. It contains most of my python projects. It has my custom package downloaders. (only for windows x64)
 </p>
     <a href="http://www.thecoldlemonade.xyz/python/">
     <input type="button" value="Python page" />
     </a>
    </div>
-   <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh'}}>
+   <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh', font-size:'300%'}}>
       <p>Do you want your own page on my site? Go to the page and fill out the form.</p>
     <a href="http://www.thecoldlemonade.xyz/customPage/">
     <input type="button" value="Form page" />
@@ -31,7 +31,7 @@ export default function Home() {
         <h1>Welcome to TheColdLemonade's <u>wonderfull</u> custom pages!</h1>  
       </div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '15vh'}}></div>
-<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh'}}>
+<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh', font-size:'300%'}}>
         <p>This is Grayson George's page. Description: "wassup guys quandill dingle here and I just ate ur mum." 
 </p>
     <a href="http://www.thecoldlemonade.xyz/fartsickle/">
