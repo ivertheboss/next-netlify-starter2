@@ -13,17 +13,17 @@ export default function Home() {
         <h1>Quandale dingle here (page requested by Grayson George)</h1>
       </div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '15vh'}}></div>
-      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh'}}>
+      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '80vh'}}>
         <iframe width="1189" height="669" src="https://www.youtube.com/embed/fwJo7K-aYEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
-<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '70vh'}}>
+<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '80vh'}}>
         <iframe width="945" height="709" src="https://www.youtube.com/embed/3YHM768tt0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </div>
-<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '70vh'}}>
+<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '80vh'}}>
         <iframe width="1280" height="720" src="https://www.youtube.com/embed/DdWC239Dbps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
-<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '70vh'}}>
+<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '80vh'}}>
         <iframe width="1189" height="669" src="https://www.youtube.com/embed/xl7y2mMMLD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   </div>
-<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '70vh'}}>
+<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '80vh'}}>
         <iframe width="1189" height="669" src="https://www.youtube.com/embed/myL7rMj7Zjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   </div>
    <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
     <p>Back to home</p>
