@@ -15,13 +15,14 @@ export default function Home() {
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
         <p>This is the link the to python page. It contains most of my python projects. It my custom package downloaders. (only for windows x64)
 </p>
-        <a href="http://www.thecoldlemonade.xyz/python/">
+    <a href="http://www.thecoldlemonade.xyz/python/">
     <input type="button" value="Python page" />
     </a>  
-   </div>
-   <div style={{display: 'flex',  justifyContent:'center', alignItems:'center'}}>
     <p>Do you want your own page on my site? Go to the page and fill out the form.</p>
+    <a href="http://www.thecoldlemonade.xyz/customPage/">
+    <input type="button" value="Form page" />
    
+   </div>
   </html>
   )
 }
