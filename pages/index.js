@@ -19,7 +19,7 @@ export default function Home() {
     <input type="button" value="Python page" />
     </a>
    </div>
-   <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '35vh', backgroundColor: "#0059ff", borderRadius: '15px'}}>
+   <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
       <p>Do you want your own page on my site? Go to the page and fill out the form.</p>
     <a href="http://www.thecoldlemonade.xyz/customPage/">
     <input type="button" value="Form page" />
