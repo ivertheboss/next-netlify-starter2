@@ -22,7 +22,7 @@ export default function Home() {
     <input type="button" value="Home" />
     </a>
    </div>
-<div style={{display: 'flex', width: 100, height: 100, backgroundColor: '#0059ff'>
+<div style={{display: 'flex', width: 100, height: 100>
         <p>test</p>
   </div>
   </html>
