@@ -14,7 +14,7 @@ export default function Home() {
       </div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '15vh'}}></div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh'}}>
-        <p>This is the first 100000000 (1 million) digits of PI.</p>
+        <p>These are the first 1 million digits of PI. (I also don't know why)</p>
    </div>
 <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh'}}>
   <p>Back to home</p>
