@@ -26,6 +26,12 @@ export default function Home() {
     <input type="button" value="Form page" />
     </a>
    </div>
+      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '9vh'}}>
+      <p>This is the PI page. It has the first 1 million digits of PI.</p>
+    <a href="http://www.thecoldlemonade.xyz/pi/">
+    <input type="button" value="PI page" />
+    </a>
+   </div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '15vh'}}></div>
    <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '35vh', backgroundColor: "#0059ff", borderRadius: '15px'}}>
         <h1>Welcome to TheColdLemonade's <u>wonderfull</u> custom pages!</h1>  
