@@ -9,7 +9,7 @@ export default function Home() {
         <title>TheColdLemonade's website</title>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👌</text></svg>"></link>
       </head> 
-      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '35vh', backgroundColor: "#0059ff", borderRadius: '15px'}}>
+      <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '35vh', backgroundColor: "#ffffff", borderRadius: '15px'}}>
         <h1>Welcome to TheColdLemonade's <u>wonderfull</u> website!</h1>  
       </div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '15vh'}}></div>
@@ -33,7 +33,7 @@ export default function Home() {
     </a>
    </div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '15vh'}}></div>
-   <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '35vh', backgroundColor: "#0059ff", borderRadius: '15px'}}>
+   <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '35vh', backgroundColor: "#ffffff", borderRadius: '15px'}}>
         <h1>Welcome to TheColdLemonade's <u>wonderfull</u> custom pages!</h1>  
       </div>
       <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '15vh'}}></div>
