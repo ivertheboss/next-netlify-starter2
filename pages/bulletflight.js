@@ -21,6 +21,10 @@ export default function Home() {
   <a href="BulletFlightRawFiles.zip" download> Download</a>
   </div>
 <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
+  <p>Unity Player DLL</p>
+  <a href="UnityPlayer.zip" download> Download</a>
+  </div>
+<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
     <p>Back to home</p>
     <a href="http://www.thecoldlemonade.xyz/">
     <input type="button" value="Home" />
