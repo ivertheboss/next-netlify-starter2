@@ -17,6 +17,10 @@ export default function Home() {
   <a href="Bullet Flight Installer (x64).zip" download> Download</a>
   </div>
 <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
+  <p>Bullet Flight Installer (x64)</p>
+  <a href="BulletFlightRawFiles.zip" download> Download</a>
+  </div>
+<div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
     <p>Back to home</p>
     <a href="http://www.thecoldlemonade.xyz/">
     <input type="button" value="Home" />
