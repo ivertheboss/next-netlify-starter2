@@ -17,7 +17,7 @@ export default function Home() {
   <a href="Bullet Flight Installer (x64).zip" download> Download</a>
   </div>
 <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
-  <p>Bullet Flight Installer (x64)</p>
+  <p>Bullet Flight raw files (not recommended for download)</p>
   <a href="BulletFlightRawFiles.zip" download> Download</a>
   </div>
 <div style={{display: 'flex',  justifyContent:'center', alignItems:'center', height: '18vh'}}>
